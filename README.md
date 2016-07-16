@@ -1,4 +1,4 @@
 Here is my readme file
 
-- this is some information about my repo
+- this is some information about my repos
 - another line
